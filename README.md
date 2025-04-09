@@ -62,7 +62,7 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 
 ### 💼 Experience Highlight
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNkYWE5MzQ5OGQ3NWQwNmFhZDExYmU2OWIwYmU2OTk0NTE3ZTRjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="75%" alt="Data Science Animation"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNkYWE5MzQ5OGQ3NWQwNmFhZDExYmU2OWIwYmU2OTk0NTE3ZTRjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="97.21%" height="400px alt="Data Science Animation"/>
 </div>
 **Data Analyst Intern @ Space Energy Systems Private Limited** (Jul 2024 - Sep 2024)
 
@@ -80,6 +80,7 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 
 * **LinkSphere:** Professional networking app (React Native, PostgreSQL, GraphQL). [🔗 GitHub](https://github.com/Gagnub/Linksphere)
 * **Organ Donation Mgmt System:** Web app for information handling (Python, Flask, MySQL). [🔗 GitHub](https://github.com/Gagnub/Organ-Donation-Management-System-)
+* **Anti Sleep Alarming System:** A system that detects drowsiness to prevent road accidents (Python, Arduino, computer vision, NVIDIA Jetson) 
 * **X-Plore:** Business/Service listing website (WordPress, SQL, Figma UI).
 
 ---
