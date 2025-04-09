@@ -1,5 +1,9 @@
 # Hi there, I'm Gagan Biradar! 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95.89%" alt="Header Animation"/>
+</p>
+
 </p>
 
 I'm an **Information Science & Engineering** student at SDM College of Engineering & Technology (🎓 Expected June 2025), based in Dharwad, Karnataka 🇮🇳.
