@@ -38,17 +38,16 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
        <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel" height="40"/> </a>
        <em>(Incl. Advanced Excel)</em>
     </p>
-* **Web Development, APIs & Auth:**
-     <p align="left">
-       <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="reactnative" width="40" height="40"/> </a>
-       <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a>
-       <a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/> </a>
-       <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain-wordmark.svg" alt="graphql" width="40" height="40"/> </a>
-       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-       <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge" alt="REST API" height="40"/> </a>
-       <a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Amazon_Cognito-FF4F8B?style=for-the-badge&logo=amazon-cognito&logoColor=white" alt="AWS Cognito" height="40"/> </a>
-       <a href="https://clerk.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth" height="40"/> </a>
-    </p>
+* **Web Development, APIs & Auth:**<be>
+
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" height="40" style="vertical-align:middle;"/></a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="40" style="vertical-align:middle;"/></a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="40" style="vertical-align:middle;"/></a>
+    <a href="https://wordpress.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" height="40" style="vertical-align:middle;"/></a>
+    <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" height="40" style="vertical-align:middle;"/></a>
+    <a href="#" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/REST_API-000?style=for-the-badge" alt="REST API" height="40" style="vertical-align:middle;"/></a>
+    <a href="https://aws.amazon.com/cognito/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Amazon_Cognito-FF4F8B?style=for-the-badge&logo=amazon-cognito&logoColor=white" alt="AWS Cognito" height="40" style="vertical-align:middle;"/></a>
+    <a href="https://clerk.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" alt="Clerk Auth" height="40" style="vertical-align:middle;"/></a>
 * **Blockchain/Web3 (Exposure):**
     <p align="left">
         <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Blockchain-000?style=for-the-badge&logo=bitcoin&logoColor=white" alt="blockchain" height="40"/> </a>
