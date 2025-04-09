@@ -1,7 +1,7 @@
 # Hi there, I'm Gagan Biradar! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95.89%" alt="Header Animation"/>
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95.89%" height="400px" alt="Header Animation"/>
 </p>
 
 </p>
