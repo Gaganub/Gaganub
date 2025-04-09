@@ -61,11 +61,18 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 ---
 
 ### 💼 Experience Highlight
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGNkYWE5MzQ5OGQ3NWQwNmFhZDExYmU2OWIwYmU2OTk0NTE3ZTRjYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="75%" alt="Data Science Animation"/>
+</div>
 **Data Analyst Intern @ Space Energy Systems Private Limited** (Jul 2024 - Sep 2024)
+
 * Developed Battery Cell Analytical Model for health monitoring.
+  
 * Analyzed large BMS datasets to identify faulty cells.
-* Created data visualizations using Python & Matplotlib.
+
+* Created data visualizations using Python & Matplotlib to extract insights.
+  
+* Took a closer look at our ideas by conducting a thorough IP analysis and prior art search, making sure our solutions are truly original and worthy of patent protection.
 
 ---
 
@@ -74,6 +81,13 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 * **LinkSphere:** Professional networking app (React Native, PostgreSQL, GraphQL). [🔗 GitHub](https://github.com/Gagnub/Linksphere)
 * **Organ Donation Mgmt System:** Web app for information handling (Python, Flask, MySQL). [🔗 GitHub](https://github.com/Gagnub/Organ-Donation-Management-System-)
 * **X-Plore:** Business/Service listing website (WordPress, SQL, Figma UI).
+
+---
+###  CONTRIBUTION ACTIVITY
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" width="100%"/>
+</div>
 
 ---
 
