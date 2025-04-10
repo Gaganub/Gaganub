@@ -1,10 +1,5 @@
 # Hi there, I'm Gagan Biradar! 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95.89%" height="400px" alt="Header Animation"/>
-</p>
-
-</p>
 
 I'm an **Information Science & Engineering** student at SDM College of Engineering & Technology (🎓 Expected June 2025), based in Dharwad, Karnataka 🇮🇳.
 
@@ -13,6 +8,11 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 💡 Actively learning through platforms like **MIT's OCW and MITx**, my experience includes robust research methodologies (literature surveys, prior art searches, analysis). I adopt a multidisciplinary approach, combining data science, math, and ML models to drive innovation.
 
 🎯 My goal is to apply **AI and machine learning to big data and statistics** for actionable insights in domains like healthcare research, quantitative finance, and business insights.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95.89%" height="200px" alt="Header Animation"/>
+</p>
+
+</p>
 
 ---
 
