@@ -66,9 +66,9 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 </div>
 **Data Analyst Intern @ Space Energy Systems Private Limited** (Jul 2024 - Sep 2024)
 
-* Developed Battery Cell Analytical Model for health monitoring.
+* Developed Battery Cell Analytical Model for battery pack's cell health monitoring.
   
-* Analyzed large BMS datasets to identify faulty cells.
+* Analyzed large BMS datasets to identify faulty cells and evaluated the SoH and SoC.
 
 * Created data visualizations using Python & Matplotlib to extract insights.
   
