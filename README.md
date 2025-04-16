@@ -91,15 +91,39 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 </div>
 
 ---
+<!-- GITHUB STATS SECTION - CYBERPUNK THEME -->
+<div align="center">
+  
+  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GITHUB MATRIX <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25"/>
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/Gaganub">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaganub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaganub&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-  </a>
-</p>
+  <picture>
+    <source 
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Gaganub/Gaganub/output/github-contribution-grid-snake.svg"
+    />
+    <img
+    />
+  </picture>
+  
+  <br/>
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaganub&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=C8D1D9&ring_color=00FFFF&border_radius=8" width="49%" alt="Github stats" />
+  </div>
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganub&langs_count=8&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C8D1D9&border_radius=8" width="60%" alt="Top languages" />
+  
+  <br/>
+  
+  <br/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganub&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity graph" />
+  
+</div>
 
 ---
 
