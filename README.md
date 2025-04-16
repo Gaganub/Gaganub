@@ -91,44 +91,60 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 </div>
 
 ---
-<!-- GITHUB STATS SECTION - CYBERPUNK THEME -->
+<!-- ADVANCED GITHUB STATISTICS - DYNAMIC SHOWCASE -->
 <div align="center">
-  
-  # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="25" height="25"/> GITHUB MATRIX <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25"/>
 
+  # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIyMjM0YTJiN2ZmZjk3MTljNDIzZTkxNzk4YTJmNzhkMDk0MWM5YyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/KzJkzjggfGN5Py6nkT/giphy.gif" width="25" height="25"/> **GITHUB METRICS OBSERVATORY** <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGYxYmNiMmU4YjY5OGFkZGZlOGMwMWNhMDQzM2M1NzU2NTlmNGNkYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/WUlplcMpOCEmTGBtBW/giphy.gif" width="25" height="25"/>
+
+  <!-- HERO SECTION WITH TYPING EFFECT -->
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Universe;Code+%E2%80%A2+Create+%E2%80%A2+Contribute;Exploring+Digital+Frontiers" alt="Typing SVG" /></a>
+
+  <!-- CONTRIBUTION HEATMAP -->
   <picture>
-    <source 
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Gaganub/Gaganub/output/github-contribution-grid-snake.svg"
-    />
-    <img
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaganub/Gaganub/master/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaganub/Gaganub/master/profile-3d-contrib/profile-green-animate.svg">
   </picture>
-  
-  <br/>
+
+  <!-- METRICS DASHBOARD -->
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmMzMTIyYjczZDJkZDQ2YTZlOTY5M2Y3MzY0MjJjODNlZDEyMTVlNiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/juua9KiQfIbTCmyETS/giphy.gif" width="25" height="25"/> Live Activity Metrics</h2>
+
+  <!-- STATS CARDS ROW -->
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaganub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&icon_color=F564A9&text_color=3ABEF7&ring_color=27E8A7&border_radius=10&card_width=450" width="49%" alt="Github statistics" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaganub&theme=tokyonight&hide_border=true&background=0D1117&ring=27E8A7&fire=F564A9&currStreakLabel=5BCDEC&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" width="49%" alt="Streak statistics" />
+  </div>
+
+  <!-- LANGUAGE PROGRESSION -->
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjllZTQzMzZiMTNjYWEzOTZkNWVkMDFmMDEzZTU0ODJlYTg1YWRiYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/ln7z2eWriiQAllfVcn/giphy.gif" width="25" height="25"/> Language & Technology Spectrum</h2>
   
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=Gaganub&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FFFF&icon_color=FF00FF&text_color=C8D1D9&ring_color=00FFFF&border_radius=8" width="49%" alt="Github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganub&langs_count=10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=5BCDEC&text_color=FFFFFF&border_radius=10&card_width=445" width="49%" alt="Top languages" />
+    
   </div>
+
+  <!-- CONTRIBUTION GRAPH -->
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGRlNDA0YmQ4YWNiNTIyZDUyZjU2ZDA5MThjYjEyZTM5MDMwODRlMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/FoVzfcqCDSb7zCynOp/giphy.gif" width="29" height="25"/> Contribution Dynamics</h2>
   
-  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganub&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=27E8A7&point=F564A9&area=true&hide_border=true" width="100%" alt="Activity graph" />
+
+  <!-- PRODUCTIVITY METRICS -->
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhiZDFmZTU5NTFlZmE1YjkzYzRhODdkZTkzYmRiMGNiM2Y2NTM3YSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/7NoNw4pMNTvgc/giphy.gif" width="25" height="25"/> Productivity Insights</h2>
+
+  <!-- CODE METRICS GRID -->
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaganub&theme=tokyonight" width="32%" alt="Repos per language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaganub&theme=tokyonight" width="32%" alt="Most commit language" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaganub&theme=tokyonight&utcOffset=8" width="32%" alt="Productive time" />
+  </div>
+
+  <!-- TROPHY SHOWCASE -->
+  <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDVkZGU0NzhkYWJmNzExMDQwYWM3ZDAyNTFmYTQzYThlYjUzNTU0MSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/iDpZbpn2x6YvebrA7e/giphy.gif" width="25" height="25"/> Achievement Gallery</h2>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaganub&langs_count=8&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0D1117&title_color=00FFFF&text_color=C8D1D9&border_radius=8" width="60%" alt="Top languages" />
-  
-  <br/>
-  
-  <br/>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganub&bg_color=0D1117&color=00FFFF&line=FF00FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity graph" />
-  
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Gaganub&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+
 
 ---
-
-### 📫 Let's Connect!
-
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Connect%20With%20Me&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" />
 <p align="left">
 <a href="https://www.linkedin.com/in/gagan-u-biradar-731353211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Gagan U Biradar | LinkedIn" height="30" style="vertical-align:middle;"/></a>
 <a href="https://www.quora.com/profile/Gagan-667" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Gagan | Quora" height="30" style="vertical-align:middle;"/></a>
