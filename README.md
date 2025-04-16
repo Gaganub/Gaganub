@@ -94,12 +94,12 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 
 ### 📊 My GitHub Stats
 
-*(Remember to replace `Gagnub` with your actual GitHub username!)*
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gagnub&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Gagan's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagnub&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </p>
+  <a href="https://github.com/Gaganub">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Gaganub&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Gaganub&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  </a>
+</p>
 
 ---
 
