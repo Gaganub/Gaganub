@@ -144,7 +144,7 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 
 
 ---
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Connect%20With%20Me&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Connect%20With%20Me%20@&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" />
 <p align="left">
 <a href="https://www.linkedin.com/in/gagan-u-biradar-731353211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Gagan U Biradar | LinkedIn" height="30" style="vertical-align:middle;"/></a>
 <a href="https://www.quora.com/profile/Gagan-667" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Gagan | Quora" height="30" style="vertical-align:middle;"/></a>
