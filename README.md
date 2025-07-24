@@ -5,7 +5,7 @@ I'm an **Information Science & Engineering** student at SDM College of Engineeri
 
 🚀 My focus is on leveraging **data science, big data, statistics, and business analytics** to drive Informed decision-making. I'm passionate about applying these skills to solve complex problems, particularly in **technology, finance and healthcare research**.
 
-💡 Actively learning through platforms like **MIT's OCW and MITx**, my experience includes robust research methodologies (literature surveys, prior art searches, analysis). I adopt a multidisciplinary approach, combining data science, math, and ML models to drive innovation.
+💡 Actively learning through platforms like **MIT's OCW and MITx**, my experience includes robust research methodologies (literature surveys, prior art searches, analysis). I have a multidisciplinary approach where I combine data science, math, and ML models to drive innovation.
 
 🎯 My goal is to apply **AI and machine learning to big data and statistics** for actionable insights in domains like healthcare research, quantitative finance, and business insights.
 <p align="center">
