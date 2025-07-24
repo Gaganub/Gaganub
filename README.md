@@ -3,7 +3,7 @@
 
 I'm an **Information Science & Engineering** student at SDM College of Engineering & Technology (🎓 Expected June 2025), based in Dharwad, Karnataka 🇮🇳.
 
-🚀 My focus is on leveraging **data science, big data, statistics, and business analytics** to drive informed decision-making. I'm passionate about applying these skills to solve complex problems, particularly in **technology, finance and healthcare research**.
+🚀 My focus is on leveraging **data science, big data, statistics, and business analytics** to drive Informed decision-making. I'm passionate about applying these skills to solve complex problems, particularly in **technology, finance and healthcare research**.
 
 💡 Actively learning through platforms like **MIT's OCW and MITx**, my experience includes robust research methodologies (literature surveys, prior art searches, analysis). I adopt a multidisciplinary approach, combining data science, math, and ML models to drive innovation.
 
