@@ -138,14 +138,13 @@ I'm an **Information Science & Engineering** graduate from SDM College of Engine
   
   <img src="https://github-profile-trophy.vercel.app/?username=Gaganub&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
 
-
 ---
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Connect%20With%20Me%20@&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="100%" />
-<p align="left">
-<a href="https://www.linkedin.com/in/gagan-u-biradar-731353211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Gagan U Biradar | LinkedIn" height="30" style="vertical-align:middle;"/></a>
-<a href="https://www.quora.com/profile/Gagan-667" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Gagan | Quora" height="30" style="vertical-align:middle;"/></a>
-<a href="mailto:gaganubofficial.21@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Gagan | Outlook" height="30" style="vertical-align:middle;"/></a>
-<a href="mailto:gaganbiradar.21@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white" alt="Gagan | iCloud" height="30" style="vertical-align:middle;"/></a>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Connect%20With%20Me%20@&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=70" width="90%" />
+<p align="middle">
+<a href="https://www.linkedin.com/in/gagan-u-biradar-731353211/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="Gagan U Biradar | LinkedIn" height="50" style="vertical-align:middle;"/></a>
+<a href="https://www.quora.com/profile/Gagan-667" target="_blank"><img src="https://img.shields.io/badge/Quora-B92B27?style=flat-square&logo=quora&logoColor=white" alt="Gagan | Quora" height="50" style="vertical-align:middle;"/></a>
+<a href="mailto:gaganubofficial.21@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white" alt="Gagan | Outlook" height="50" style="vertical-align:middle;"/></a>
+<a href="mailto:gaganbiradar.21@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=flat-square&logo=icloud&logoColor=white" alt="Gagan | iCloud" height="50" style="vertical-align:middle;"/></a>
 </p>
 
 ---
