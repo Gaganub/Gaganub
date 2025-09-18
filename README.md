@@ -1,18 +1,14 @@
 # Hi there, I'm Gagan Biradar! 👋
 
+[![Master Head](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://darshankrishna-dk.io)
 
-I'm an **Information Science & Engineering** student at SDM College of Engineering & Technology (🎓 Expected June 2025), based in Dharwad, Karnataka 🇮🇳.
+I'm an **Information Science & Engineering** graduate from SDM College of Engineering & Technology, affiliated to VTU University , based in Dharwad, Karnataka 🇮🇳. working as a Graduate Trainee Engineer (GTE) @ Space Energy Systems Private Ltd., Bengaluru, India.
 
-🚀 My focus is on exploring and learning **data science, big data, statistics, and business analytics** to drive Informed decision-making. I'm passionate about applying these skills to solve complex problems, particularly in **technology, finance and healthcare research**.
+🚀 I'm currently learning and applying myself to **data science, big data, statistics, and business analytics** to drive Informed decision-making. I'm focused on these skills to solve complex problems, particularly in **technology, finance, and healthcare research**.
 
 💡 Actively learning through platforms like **MIT's OCW and MITx**, my experience includes robust research methodologies (literature surveys, prior art searches, analysis). I have a multidisciplinary approach where I combine data science, math, and ML models to drive innovation.
 
-🎯 My goal is to apply **AI and machine learning to big data and statistics** for actionable insights in domains like healthcare research, quantitative finance, and business insights.
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="95.89%" height="200px" alt="Header Animation"/>
-</p>
-
-</p>
+🎯 Elevating myself to apply more to **AI and machine learning to big data and statistics** for actionable insights in domains like healthcare research, quantitative finance, and business insights.
 
 ---
 
