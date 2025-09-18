@@ -14,6 +14,10 @@ I'm an **Information Science & Engineering** graduate from SDM College of Engine
 
 ### 🛠️ My Tech Stack & Skills
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,react,nodejs,html,css,js,mysql,tensorflow,git,github,vscode,figma&perline=8" />
+</p>
+
 * **Languages:**<br>
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -101,8 +105,10 @@ I'm an **Information Science & Engineering** graduate from SDM College of Engine
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaganub&theme=tokyonight&utcOffset=5" width="32%" alt="Productive time" />
 
 
-
-</div>
+<p align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganub&theme=tokyo-night" alt="Activity Graph" />
+</p>
 
 ---
 
