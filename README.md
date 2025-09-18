@@ -90,22 +90,17 @@ I'm an **Information Science & Engineering** graduate from SDM College of Engine
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub+Universe;Code+•+Create+•+Contribute;Exploring+Digital+Frontiers" alt="Typing SVG" /></a>
+<!-- Fixed Typing SVG (working demo) -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&width=435&lines=Welcome+to+My+GitHub+Universe;Code+%7C+Create+%7C+Contribute;Exploring+Digital+Frontiers)](https://git.io/typing-svg)
 
-<!-- Replaced broken API calls with stable summary cards -->
+
+<!-- Stable GitHub Summary Cards -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaganub&theme=tokyonight" width="100%" alt="GitHub Summary" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaganub&theme=tokyonight" width="32%" alt="Repos per language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaganub&theme=tokyonight" width="32%" alt="Most commit language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaganub&theme=tokyonight&utcOffset=5" width="32%" alt="Productive time" />
 
-<!-- Stable streak stats -->
-<img src="https://streak-stats.demolab.com?user=Gaganub&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak Stats" />
 
-<!-- Static badges to replace rate-limited API stats -->
-![GitHub followers](https://img.shields.io/github/followers/Gaganub?label=Followers&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Gaganub?label=Stars&style=for-the-badge)
-![Commits](https://img.shields.io/badge/Commits-Active-brightgreen?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-4-blueviolet?style=for-the-badge)
 
 </div>
 
