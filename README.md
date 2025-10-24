@@ -18,6 +18,7 @@ I'm an **Information Science & Engineering** graduate from SDM College of Engine
   <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,dotnet,react,nodejs,html,css,js,mysql,tensorflow,git,github,vscode,figma&perline=8" />
 </p>
 
+
 * **Languages:**<br>
     ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
     ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
