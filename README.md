@@ -8,7 +8,7 @@ I'm an **Information Science & Engineering** graduate from SDM College of Engine
 
 💡 Actively learning through platforms like **MIT's OCW and MITx**, my experience includes robust research methodologies (literature surveys, prior art searches, analysis). I have a multidisciplinary approach where I combine data science, math, and ML models to drive innovation.
 
-🎯 Elevating myself to apply more to **AI and machine learning to big data and statistics** for actionable insights in domains like healthcare research, quantitative finance, and business insights.
+🎯 Elevating myself to apply more to **AI and machine learning to big data and statistics** for actionable insights in domains like healthcare research, quantitative finance, and business intelligence.
 
 ---
 
