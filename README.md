@@ -2,7 +2,7 @@
   <h1>🙋‍♂️ Hi, I'm Gagan Biradar</h1>
 </div>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=121&lines=Data+Science+%7C+Analytics+Engineer+%7C+ML+Enthusiast;Turning+Data+into+Actionable+Insights;Building+Intelligent+Solutions+for+Tomorrow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=115&lines=Data+Science+%7C+Analytics+Engineer+%7C+ML+Enthusiast;Turning+Data+into+Actionable+Insights;Building+Intelligent+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
