@@ -160,7 +160,7 @@ Building scalable applications with React Native, Python, .NET, and cloud techno
 ## 🎯 Featured Projects
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="290">
 </div>
 
 ### 🔗 [LinkSphere](https://github.com/Gagnub/Linksphere) - Professional Networking Platform
@@ -261,7 +261,7 @@ Building scalable applications with React Native, Python, .NET, and cloud techno
 *International Journal of Scientific Research in Engineering and Management (IJSREM)*  
 Published: May 16, 2025
 
-Coauthored paper on innovative offline-first social platform with AI-powered emotion analysis and personalized recommendations.
+Coauthored a paper on an innovative offline-first social platform with AI-powered emotion analysis and personalized recommendations.
 
 </td>
 <td width="40%">
@@ -468,8 +468,6 @@ mindmap
 </a>
 
 <br><br>
-
-<img src="https://komarev.com/ghpvc/?username=Gaganub&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
