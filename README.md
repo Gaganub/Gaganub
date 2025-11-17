@@ -5,7 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=750&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=115&lines=Data+Science+%7C+Analytics+Engineer+%7C+ML+Enthusiast;Turning+Data+into+Actionable+Insights;Building+Intelligent+Solutions+for+Tomorrow)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
 </div>
 
 <div align="center">
@@ -14,7 +13,7 @@
       src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
       alt="Master Head" 
       width="1000" 
-      height="400" 
+      height="380" 
     />
   </a>
 </div>
