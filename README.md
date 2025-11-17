@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```python
-class DataScientist:
+class GET:
     def __init__(self):
         self.name = "Gagan Biradar"
         self.role = "Graduate Trainee Engineer @ Space Energy Systems"
