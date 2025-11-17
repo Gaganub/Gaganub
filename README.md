@@ -389,7 +389,7 @@ mindmap
       Documentation
     Analytics
       Statistical Modeling
-      Data Mining
+      Time Series Analysis
       Anomaly Detection
       Predictive Modeling
     Management
