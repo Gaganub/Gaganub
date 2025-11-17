@@ -355,13 +355,23 @@ gantt
 
 ---
 
-## 🌟 Skills Matrix
+## 🌟 Skills Matrix - Soft Skills
 
 <div align="center">
 
-### 💪 Soft Skills
-
 ```mermaid
+%%{init: {
+    'theme': 'neutral',
+    'themeVariables': {
+        'background': '#FFFFFF',          /* Light Background */
+        'mainBkg': '#005A9C',             /* Root Node (Corporate Blue) */
+        'mainTextColor': '#FFFFFF',       /* Root Node Text (White) */
+        'lineColor': '#333333',           /* Line Color */
+        'nodeBorder': '#005A9C',          /* Border Color */
+        'nodeBkg': '#F3F3F3',             /* Secondary Node Background (Light Gray) */
+        'nodeTextColor': '#333333'        /* Secondary Node Text (Dark Gray) */
+    }
+}}%%
 mindmap
   root((Gagan))
     Research
@@ -390,11 +400,9 @@ mindmap
 
 ---
 
-## 🌟 Skills Matrix
+## 🌟 Skills Matrix - Core Competencies
 
 <div align="center">
-
-### 💪 Core Competencies
 
 | Category | Skills |
 |----------|--------|
