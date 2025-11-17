@@ -352,13 +352,13 @@ gantt
     title Career Journey
     dateFormat  YYYY-MM
     section Education
-    B.E. Information Science    :2021-12, 2025-05
+    B.E. Information Science   :2021-12, 2025-05
     section Internships
-    Data Analyst Intern         :2024-07, 2024-09
+    Data Analyst Intern        :2024-07, 2024-09
     section Internships
-    Data Analyst & Software Development Intern         :2025-02, 2025-05
+    Data Analyst & Software Development Intern        :2025-02, 2025-05
     section Current
-    Graduate Trainee Engineer   :2025-06, 2025-11
+    Graduate Trainee Engineer  :2025-06, 2025-11
 ```
 
 ---
@@ -367,17 +367,21 @@ gantt
 
 <div align="center">
 
+<div align="center">
+
+### 💪 Soft Skills
+
 ```mermaid
 %%{init: {
     'theme': 'neutral',
     'themeVariables': {
-        'background': '#FFFFFF',          /* Light Background */
-        'mainBkg': '#005A9C',             /* Root Node (Corporate Blue) */
+        'background': '#1E1E1E',          /* Dark Background */
+        'mainBkg': '#4A90E2',             /* Root Node (Vibrant Blue) */
         'mainTextColor': '#FFFFFF',       /* Root Node Text (White) */
-        'lineColor': '#333333',           /* Line Color */
-        'nodeBorder': '#005A9C',          /* Border Color */
-        'nodeBkg': '#F3F3F3',             /* Secondary Node Background (Light Gray) */
-        'nodeTextColor': '#333333'        /* Secondary Node Text (Dark Gray) */
+        'lineColor': '#B3B3B3',           /* Light Gray Lines */
+        'nodeBorder': '#4A90E2',          /* Blue Border */
+        'nodeBkg': '#333333',             /* Secondary Node Background (Dark Gray) */
+        'nodeTextColor': '#FFFFFF'        /* Secondary Node Text (White - FOR VISIBILITY) */
     }
 }}%%
 mindmap
@@ -389,7 +393,7 @@ mindmap
       Documentation
     Analytics
       Statistical Modeling
-      Time Series Analysis
+      Data Mining
       Anomaly Detection
       Predictive Modeling
     Management
