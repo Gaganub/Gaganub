@@ -8,7 +8,16 @@
 
 </div>
 
-[![Master Head](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://darshankrishna-dk.io)
+<div align="center">
+  <a href="https://darshankrishna-dk.io">
+    <img 
+      src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+      alt="Master Head" 
+      width="1000" 
+      height="500" 
+    />
+  </a>
+</div>
 
 ## 🚀 About Me
 
