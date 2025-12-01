@@ -184,7 +184,7 @@ Building scalable applications with React Native, Python, .NET, and cloud techno
 
 **Tech Stack:** Python • SQL • Power BI • Statistical Modeling • Time-Series Analysis  
 **Impact:** 
-- Processed **20,000+ data points** from multiple BMS units
+- Processed **500,000+ data points** from multiple BMS units
 - Achieved **95% accuracy** in predicting degradation patterns
 - Reduced downtime with **48-hour advance** failure detection
 
