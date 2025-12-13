@@ -75,7 +75,7 @@ Vibeathon Finalist (Top 20/1200+), ETHGlobal Singapore, and 15+ hackathons
 </td>
 <td align="center" width="50%">
 
-🌐 **Full-Stack Developer**  
+🌐 **Software Developer**  
 Building scalable applications with React Native, Python, .NET, and cloud technologies
 
 </td>
