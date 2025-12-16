@@ -239,7 +239,7 @@ Building scalable applications with React Native, Python, .NET, and cloud techno
 | **Coinbase Agents in Action** | 🤖 DeFi Agentic AI | 2025 | Online |
 | **Warpspeed: Agentic AI Hackathon** | 🚀 AI Workflow Automation | 2025 | Online |
 | **Reddit × Kiro: Community Games** | 🎮 Community Engagement Game | 2025 | Online |
-| **Octant DeFi Hackathon** | 💎 Crypto Asset Analyzer | 2025 | Online |
+| **Octant DeFi Hackathon** | 💎 Crypto Asset Analyzer | 2025 | Online | 
 
 </details>
 
