@@ -97,7 +97,7 @@ Building scalable applications with React Native, Python, .NET, and cloud techno
 - 🔍 Conducting **IP analysis** and prior art searches for patent development
 - 💻 Learning **.NET** for desktop application development and HMI tools
 - 🏗️ Building construction operations app with data-driven workflows
-- 📈 Processing **10,000+ records** to quantify business impact on battery efficiency
+- 📈 Processing **500,000+ records** to quantify business impact on battery efficiency
 - 🛠️ Utilizing Python, SQL, Excel, and Power BI for comprehensive analysis
 
 </td>
