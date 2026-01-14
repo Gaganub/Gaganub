@@ -24,7 +24,7 @@
 class GET:
     def __init__(self):
         self.name = "Gagan Biradar"
-        self.role = "Graduate Trainee Engineer @ Space Energy Systems"
+        self.role = "Graduate Engineer Trainee @ Space Energy Systems"
         self.location = "Bengaluru, Karnataka, India 🇮🇳"
         self.education = "B.E. Information Science & Engineering | SDM College"
         self.passion = ["Data Science", "Machine Learning", "Healthcare Research", 
