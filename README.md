@@ -34,7 +34,7 @@ class Summary:
         self.location = "Bengaluru, Karnataka, India 🇮🇳"
         self.education = {
             "current": "M.Sc. Financial Engineering | WorldQuant University",
-            "completed": "B.E. Information Science & Engineering | SDM College"
+            "completed": "B.E. Information Science & Engineering | SDM College of Engineering and Technology"
         }
         self.interests = [
             "Data Science", "Quantitative Finance", "Machine Learning",
