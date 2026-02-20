@@ -27,7 +27,7 @@
 ## 🚀 About Me
 
 ```python
-class DataScientist:
+class Summary:
     def __init__(self):
         self.name = "Gagan Biradar"
         self.role = "Graduate Engineer Trainee @ Space Energy Systems Private Ltd"
