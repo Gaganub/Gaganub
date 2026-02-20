@@ -18,6 +18,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="1200" height="400" />
+</div>
+
 ---
 
 ## 🚀 About Me
@@ -26,7 +30,7 @@
 class DataScientist:
     def __init__(self):
         self.name = "Gagan Biradar"
-        self.role = "Graduate Engineer Trainee @ Space Energy Systems"
+        self.role = "Graduate Engineer Trainee @ Space Energy Systems Private Ltd"
         self.location = "Bengaluru, Karnataka, India 🇮🇳"
         self.education = {
             "current": "M.Sc. Financial Engineering | WorldQuant University",
@@ -89,6 +93,10 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 
 ## 💼 Current Role
 
+<table>
+<tr>
+<td width="70%">
+
 **Graduate Engineer Trainee** @ [Space Energy Systems](https://www.spaceenergysystems.com/)  
 *February 2025 - Present | Bengaluru, India*
 
@@ -111,6 +119,17 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 - Conducted client site visits for demos and feedback gathering
 - Mentored junior developers on React Native best practices
 - Performed prior art searches and IP analysis for patent development
+
+</td>
+<td width="30%">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -160,17 +179,29 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 
 ## 🎯 Featured Projects
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" height="100"/>
+</div>
+
 ### 📊 [Stock Market Prediction System](https://github.com/Gaganub) 
-> Intelligent stock forecasting with risk profiling and fundamental analysis
+> 💹 Intelligent stock forecasting with risk profiling and fundamental analysis
 
 **Impact:** Reduced investment uncertainty by 30% through comprehensive decision support system
 
 **Tech Stack:** `Python` `Statistical Modeling` `Financial Data Analysis` `Risk Profiling`
 
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+</div>
+
 ---
 
 ### 🔋 Battery Management System Analytics
-> Real-time battery monitoring with predictive maintenance capabilities
+> ⚡ Real-time battery monitoring with predictive maintenance capabilities
 
 **Impact:** 
 - 95% accuracy in degradation prediction
@@ -179,19 +210,36 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 
 **Tech Stack:** `Python` `SQL` `Power BI` `Pandas` `Time-Series Analysis`
 
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</div>
+
 ---
 
 ### 🔗 [LinkSphere - Professional Networking Platform](https://github.com/Gaganub/Linksphere)
-> Full-stack mobile app connecting professionals with real-time features
+> 🌐 Full-stack mobile app connecting professionals with real-time features
 
 **Features:** User authentication • Real-time messaging • Profile management • Connection requests
 
 **Tech Stack:** `React Native` `PostgreSQL` `GraphQL` `Apollo Client` `Node.js`
 
+<div align="center">
+  
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
+
 ---
 
 ### 📈 SEO Analytics Platform
-> Large-scale keyword analysis with distributed computing
+> 🔍 Large-scale keyword analysis with distributed computing
 
 **Impact:**
 - Processed 500,000+ keywords
@@ -201,27 +249,51 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 
 **Tech Stack:** `Apache Spark` `Hadoop` `Python` `Power BI` `Distributed Computing`
 
+<div align="center">
+  
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
 ---
 
 ### 🎲 Monte Carlo Risk Analytics Model
-> Probabilistic simulation for financial risk assessment
+> 📊 Probabilistic simulation for financial risk assessment
 
 **Application:** Value at Risk (VaR) calculation • Portfolio risk analysis • Uncertainty modeling
 
 **Tech Stack:** `Python` `Statistical Sampling` `Monte Carlo Methods` `ML Algorithms`
 
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
+</div>
+
 ---
 
 ### 👁️ Computer Vision Object Tracking Toolkit
-> Multi-position tracking solution optimized for edge devices
+> 🎥 Multi-position tracking solution optimized for edge devices
 
 **Use Case:** Retinal movement analysis for medical diagnostics
 
 **Tech Stack:** `Python` `OpenCV` `PyQt` `Real-time Video Processing`
 
+<div align="center">
+  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+</div>
+
 ---
 
 ## 🏆 Hackathons & Achievements
+
 
 <details open>
 <summary><b>🎖️ Major Wins & Recognition</b></summary>
@@ -261,6 +333,10 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 
 ## 📚 Research & Publications
 
+<table>
+<tr>
+<td width="65%">
+
 ### 🔬 Research Experience
 
 **Undergraduate Research in Computational Modeling** | *2022 – Oct 2025*  
@@ -283,6 +359,17 @@ M.Sc. Financial Engineering | Published researcher | MIT OCW student
 
 Coauthored paper on AI-powered emotion analytics with real-time sentiment modeling for social platforms.
 
+</td>
+<td width="35%">
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200%" height="700" />
+</div>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎓 Education
@@ -295,16 +382,16 @@ WorldQuant University *(Distance Learning)*
 ---
 
 **B.E. Information Science & Engineering** | *2021 – 2025*  
-SDM College of Engineering & Technology, Dharwad | **CGPA: 7.13/10**
+SDM College of Engineering & Technology, Dharwad
 
-*First Class with Distinction*
-
-*Coursework: Software Development, Big Data Analytics, Distributed Systems, Modern Databases, Computer Networks, Data Structures & Algorithms*
+*Coursework: Software Development, Big Data Analytics, Mathematics and Statistics, Distributed Systems, Modern Databases, Computer Networks, Data Structures & Algorithms*
 
 ---
 
 **High School (PCMB)** | *2019 – 2021*  
-Smt. Vidya P Hanchinmani PU College | **84%**
+Smt. Vidya P Hanchinmani PU College
+
+*Coursework: Physics, Chemistry, Mathematics, and Biology*
 
 ---
 
@@ -327,6 +414,14 @@ Smt. Vidya P Hanchinmani PU College | **84%**
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gaganub&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak" width="49%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaganub&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" width="98%"/>
+
+### 🐍 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gaganub/Gaganub/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gaganub/Gaganub/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Gaganub/Gaganub/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
@@ -402,22 +497,10 @@ Quantitative Finance Career
 <a href="https://github.com/Gaganub">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
 </a>
-
----
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-### 💡 "Turning data into insights, insights into impact"
-
-**Open to opportunities in Data Science, Analytics, and Quantitative Finance**  
-**Available for remote, hybrid, or on-site roles | Pan-India relocation**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
-⭐️ From [Gaganub](https://github.com/Gaganub)
+<a href="https://x.com/GaganUBiradar" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" 
+       alt="X" 
+       height="35"/>
+</a>
 
 </div>
