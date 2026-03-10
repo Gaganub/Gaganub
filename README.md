@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Gagan Biradar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Analytics+%7C+Quantitative+Finance;Turning+Data+into+Actionable+Insights;Building+Intelligent+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira%20Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Data%20Science%20%7C%20Analytics%20%7C%20Quantitative%20Finance;Turning%20Data%20into%20Actionable%20Insights;Building%20Intelligent%20Solutions)](https://git.io/typing-svg)
 
 </div>
 
