@@ -38,7 +38,6 @@ class Summary:
             "goal": "Contributing to technology through data-driven decision making"
         }
 
-me = DataScientist()
 print(f"👨‍💻 {me.name} | {me.role}")
 ```
 
